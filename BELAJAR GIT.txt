@@ -1,0 +1,5 @@
+1.git init
+2.git add .
+3.git commit -m "contoh pesan"
+4.git remote add [link repo]
+5.git push -u origin master
